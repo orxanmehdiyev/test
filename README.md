@@ -5,7 +5,9 @@
 ### Kevin Eikenberry
 "Remarkable Leadership: Unleashing Your Leadership Potantial One Skill at Time" Kitabın yazarı
 ##   
-"'Bilinçaltı' zihnin önemli noktalanyla ilgili aydınlatıcı bir rura çıkın ve ne kadar küçük detayların bütün farkı yarattığını öğrenin! Bu kitap, başkalarını okumak için sözsüz güçlü iletişim becerilerini kullanmaya ve istediğiniz sonuçları elde etmek için kasıtlı, derin ve etkili mesajlar aktarmaya dair son derece iyi bir kestirme."
+"'Bilinçaltı' zihnin önemli noktalarıyla ilgili aydınlatıcı bir tura çıkın ve ne kadar küçük detayların bütün farkı yarattığını öğrenin! Bu kitap, başkalarını okumak için sözsüz güçlü iletişim becerilerini kullanmaya ve istediğiniz sonuçları elde etmek için kasıtlı, derin ve etkili mesajlar aktarmaya dair son derece iyi bir kestirme."
+### David Garfinkel
+"Advertising Headlines That Make Yoıı Rich" adlı kitabın yazarı
 ### Ətraflı oxumaq üçün:
 [README.md-də keçidə baxın](#django-nun-kontekst-prosessorlar%C4%B1n%C4%B1n-m%C9%99qs%C9%99dini-izah-edin)
 
