@@ -5,6 +5,7 @@
 ### Kevin Eikenberry
 "Remarkable Leadership: Unleashing Your Leadership Potantial One Skill at Time" Kitabın yazarı
 ##   
+####ddfd
 "'Bilinçaltı' zihnin önemli noktalanyla ilgili aydınlatıcı bir rura çıkın ve ne kadar küçük detayların bütün farkı yarattığını öğrenin! Bu kitap, başkalarını okumak için sözsüz güçlü iletişim becerilerini kullanmaya ve istediğiniz sonuçları elde etmek için kasıtlı, derin ve etkili mesajlar aktarmaya dair son derece iyi bir kestirme."
 ### Ətraflı oxumaq üçün:
 [README.md-də keçidə baxın](#django-nun-kontekst-prosessorlar%C4%B1n%C4%B1n-m%C9%99qs%C9%99dini-izah-edin)
